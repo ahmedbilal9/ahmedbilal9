@@ -1,73 +1,63 @@
-#  About
-### Hi there, I'm Ahmed Bilal👋 
-
-**Data Analyst | Electrical Engineer **
-
-Driven by a passion for utilizing my knowledge and skills in Data Science, Data Analysis, Machine Learning, and Deep Learning, I aim to contribute to the success of businesses and organizations. My journey in this field has been a blend of experimentation, learning, perseverance, and embracing failures without losing hope. I believe satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
- 
-
-<details>
-  
-<summary>STATS 📊📊📊</summary> 
+# Hi there! 👋 I'm Ahmed Bilal
 
 <p align="center">
-  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=ahmedbilal9&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats"> 
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbilal9&layout=compact&theme=vision-friendly-light" alt="Top Languages">
+  <a href="https://www.linkedin.com/in/ahmedbilal9">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmedbilal9" height="30" width="30" />
+  </a>
 </p>
-  
-</details>
 
+---
 
---- 
- <details>
- <summary> 🍪CLICK TO VIEW SKILLS: </summary> 
-   
-| Tools          | Badge |
-|------------------|-------|
-| Python           | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| R Language       | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
-| SQL              | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white) |
-| MS Excel         | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) |
-| MS Power BI      | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white) |
-| Tableau          | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) |
-| Machine Learning | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white) |
-| Data Visualization | ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-4CAF50?logo=databricks&logoColor=white) |
+### 🚀 About Me
+- 🎓 Electrical Engineering Student | Research Intern at **Intelligent Robotics Lab (IRL), NCAI**
+- 🤖 AI & Robotics enthusiast focused on **Autonomous Systems**
+- 📊 Experience across **Data Analytics, Machine Learning, and Embedded Systems**
+- 🔭 Currently researching **Digital Twin technology** and **Predictive Maintenance** for electrical/industrial machines
+- 🎯 Goal: Contribute meaningful, real-world solutions in **AI**, **Robotics**, and **Digital Twins**
 
- </details>
- 
- ---
- 
-<details>
-<summary>📫 CLICK TO VIEW SOCIALS</summary>
+---
 
-| Platform               | Icon                                                                                 |
-|------------------------|--------------------------------------------------------------------------------------|
-| [LinkedIn ](https://www.linkedin.com/in/ahmedbilal9)   | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)   |
-| [Contributions on Kaggle ](https://www.kaggle.com/ahmedbilalsheikh) | ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)      |
-| [Email at: Data X](mailto:ahmedbilal459047@gmail.com)     | ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)          |
+### 🛠️ Tech Stack
 
-</details>
+**Programming:** Python, C, C++, R, SQL  
+**ML & Data Analytics:** TensorFlow, PyTorch, Scikit-learn, IBM Watson, Pandas, NumPy  
+**Autonomous Systems:** ROS2, Arduino, Jetson Nano, Embedded C, MATLAB, Gazebo  
+**Cloud & Tools:** Docker, AWS, FastAPI, Flask, Linux, Terraform  
+**Databases:** MySQL  
 
---- 
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="65" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="65" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="65" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55"/>
+</p>
 
+---
 
-## 🔭 I’m currently working on
-- Data Science, Data Analysis & Machine Learning
+### 📌 Current Projects & Achievements
+- 🧑‍🔬 **Final Year Project (FYP): _ML-Based Digital Twin and Predictive Maintenance System for Industrial Machines_**
+- 🔬 Currently researching **Digital Twin technology** and **Predictive Maintenance** of **electrical/industrial machines**
+- 📜 Completed the **Google Data Analytics Certificate**
+- 🤝 Interests: **SLAM**, **Sensor Fusion**, and **Autonomous Navigation** for robotics applications
 
-## 🌱 I’m currently learning
-- Startups, Deep learning, NLP, Computer Vision & Cloud Computing
+---
 
-## 😄 Words that describe me
-- Quick Learner, Self-motivated, Focused, Hardworking & Consistent
-  
-## 🎯 Goals for 2025
-- Get an internship.
-- Complete FYP before September 2025.
-- Publish my Research Paper before Dec-25.
-- Fly out 😄
+### 📈 GitHub Stats
 
---- 
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbilal9&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbilal9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedbilal9&theme=tokyonight)](https://git.io/streak-stats)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedbilal9&style=for-the-badge&color=orange" alt=""/>
-</div>
+---
+
+### 🤖 Quote for Inspiration
+> *“The future belongs to those who design intelligent systems today.”*
+
+---
+
+### ⚡ Fun Fact
+I love exploring the **intersection of AI and autonomous systems** — from **digital twins** to **self-driving robots** 🚗🤖
