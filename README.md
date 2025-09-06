@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/ahmedbilal9">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmedbilal9" height="30" width="30" />
   </a>
+  <a href="https://www.kaggle.com/ahmedbilalsheikh">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmedbilalsheikh" height="30" width="30" />
+  </a>
 </p>
 
 ---
@@ -46,10 +49,16 @@
 
 ---
 
+### 🏆 Achievements
+- Presented the paper *“The Innovative Integration of Solar PV and Battery Storage Systems for Energy Efficiency”* at **10 IEEE International Conferences**.  
+- [📄 View IEEE Certificate](certificates/IEEE_Certificate_2025.pdf)
+
+---
+
 ### 📈 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbilal9&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbilal9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbilal9&show_icons=true&theme=tokyonight&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbilal9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedbilal9&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
