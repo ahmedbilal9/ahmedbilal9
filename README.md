@@ -51,7 +51,7 @@
 
 ### 🏆 Achievements
 - Presented the paper *“The Innovative Integration of Solar PV and Battery Storage Systems for Energy Efficiency”* at **10 IEEE International Conferences**.  
-- [📄 View IEEE Certificate]([certificates/IEEE_Certificate_2025.pdf](https://github.com/ahmedbilal9/IEEE_Certificate_2025/blob/main/IEEE_Certificate_2025.pdf))
+- [📄 View IEEE Certificate](https://drive.google.com/file/d/1M5z1IDdBFKhbEMm6E5346GKi5y8Ouubl/view?usp=sharing)
 
 ---
 
