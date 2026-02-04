@@ -1,72 +1,118 @@
-# Hi there! 👋 I'm Ahmed Bilal
+# Hi there, I'm Ahmed Bilal 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedbilal9">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmedbilal9" height="30" width="30" />
-  </a>
-  <a href="https://www.kaggle.com/ahmedbilalsheikh">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmedbilalsheikh" height="30" width="30" />
-  </a>
-</p>
+**Aspiring AI/ML Researcher** | Autonomous Systems & Trustworthy AI | CERN Contributor
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmedbilal9)
+[![Email](https://img.shields.io/badge/Email-ahmedbilalned@gmail.com-red?style=flat&logo=gmail)](mailto:ahmedbilalned@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@ahmedbilal9)
 
 ---
 
-### 🚀 About Me
-- 🎓 Electrical Engineering Student | Research Intern at **Intelligent Robotics Lab (IRL), NCAI**
-- 🤖 AI & Robotics enthusiast focused on **Autonomous Systems**
-- 📊 Experience across **Data Analytics, Machine Learning, and Embedded Systems**
-- 🔭 Currently researching **Digital Twin technology** and **Predictive Maintenance** for electrical/industrial machines
-- 🎯 Goal: Contribute meaningful, real-world solutions in **AI**, **Robotics**, and **Digital Twins**
+## 🚀 About Me
+
+I'm an Electrical Engineering student at **NED University** with a passion for **Machine Learning**, **Robotics**, and **High-Energy Physics**. I've contributed to **CERN ROOT** with three merged PRs and gained hands-on research experience at **National Centre for Physics (NCP)**, **NUST**, and **NED University**.
+
+Currently exploring graduate research opportunities in **AI**, **Intelligent Systems**, and **Robotics**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🔬 Research Experience
 
-**Programming:** Python, C, C++, R, SQL  
-**ML & Data Analytics:** TensorFlow, PyTorch, Scikit-learn, IBM Watson, Pandas, NumPy  
-**Autonomous Systems:** ROS2, Arduino, Jetson Nano, Embedded C, MATLAB, Gazebo  
-**Cloud & Tools:** Docker, AWS, FastAPI, Flask, Linux, Terraform  
-**Databases:** MySQL  
+### **Research Intern @ National Centre for Physics (NCP)** *(Dec 2025 – Present)*
+- Designed multi-algorithm anomaly detection pipeline on **100K CERN dielectron collision events**
+- Measured Z boson mass at **91.20±0.08 GeV** using Bayesian Neural Networks (R² = 0.94)
+- Performed micrometer-level alignment of **CMS silicon detector modules**
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="65" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="65" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="65" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55"/>
-</p>
+### **Research Intern @ IRL-NCAI Lab, NUST** *(Jul 2025 – Aug 2025)*
+- Configured **ROS 2 Jazzy** and **Gazebo Harmonic** for autonomous robotic platforms
+- Integrated **TurtleBot4** with Nav2 stack for autonomous navigation
+- Investigated **SLAM pipelines** with LiDAR, IMU, and camera sensor fusion
+
+### **Research Intern @ NCAI Smart City Lab, NED UET** *(Dec 2024 – Jan 2025)*
+- Researched autonomous electric vehicle navigation and motion control
+- Integrated **RPLiDAR** with ROS for real-time 2D mapping using **Hector SLAM**
+- Developed electronic control circuitry using microcontrollers and sensors
 
 ---
 
-### 📌 Current Projects & Achievements
-- 🧑‍🔬 **Final Year Project (FYP): _ML-Based Digital Twin and Predictive Maintenance System for Industrial Machines_**
-- 🔬 Currently researching **Digital Twin technology** and **Predictive Maintenance** of **electrical/industrial machines**
-- 📜 Completed the **Google Data Analytics Certificate**
-- 🤝 Interests: **SLAM**, **Sensor Fusion**, and **Autonomous Navigation** for robotics applications
+## 🌟 Open Source Contributions
+
+### **CERN ROOT Project**
+- 🔧 [PR #20798](https://github.com/root-project/root/pull/20798) – Fixed Chi2Test residual calculation for multi-dimensional histograms
+- 🔧 [PR #20499](https://github.com/root-project/root/pull/20499) – Improved file permission handling for I/O modules
+- 🔧 [PR #20345](https://github.com/root-project/root/pull/20345) – Fixed precision loss in GDML geometry exports
 
 ---
 
-### 🏆 Achievements
-- Presented the paper *“The Innovative Integration of Solar PV and Battery Storage Systems for Energy Efficiency”* at **10 IEEE International Conferences**.  
-- [📄 View IEEE Certificate](https://drive.google.com/file/d/1M5z1IDdBFKhbEMm6E5346GKi5y8Ouubl/view?usp=sharing)
+## 💻 Featured Projects
+
+### 🤖 [Digital Twin-Based Predictive Maintenance System](https://github.com/ahmedbilal9)
+*Final Year Design Project in collaboration with Shaft Turbo Machinery Solutions Europe*
+- Built physics-based digital twins for gas turbines and centrifugal pumps
+- Developed scalable **MQTT-FastAPI** pipeline for real-time monitoring
+- Enabled remote experimentation via **Raspberry Pi** dashboard
+
+### 🌾 [Pakistan Crop Yield Prediction](https://github.com/ahmedbilal9)
+- Achieved **R² > 0.98** using Random Forest and XGBoost ensemble models
+- Performed comprehensive EDA with correlation analysis and feature engineering
+
+### ⚙️ [Microcontroller-Based DC Motor Speed Control](https://github.com/ahmedbilal9)
+- Implemented precise speed control with encoder feedback and thyristor regulation
+- Optimized system efficiency through hardware-software synchronization
+
+### 🌡️ [Temperature & Humidity Monitoring System](https://github.com/ahmedbilal9)
+- Built IoT monitoring system using **ATmega328p** and **ESP8266**
+- Real-time data visualization via web server interface
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Technical Skills
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbilal9&show_icons=true&theme=tokyonight&count_private=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbilal9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedbilal9&theme=tokyonight)](https://git.io/streak-stats)
+**Languages:** Python • C/C++ • Embedded C • R • SQL • MATLAB
+
+**AI/ML:** TensorFlow • PyTorch • Scikit-learn • XGBoost • Bayesian Neural Networks • Monte Carlo Dropout
+
+**Robotics:** ROS 2 (Jazzy) • Gazebo • Nav2 • SLAM (Hector, Cartographer) • TurtleBot4 • Sensor Fusion
+
+**Scientific Computing:** ROOT (CERN) • NumPy • Pandas • SciPy • Matplotlib
+
+**Tools:** Linux • Git • Docker • FastAPI • MQTT • Raspberry Pi
+
+**Hardware:** Microcontrollers (ATmega328p, ESP32, STM32) • LiDAR • IMU • I2C • UART • SPI
 
 ---
 
-### 🤖 Quote for Inspiration
-> *“The future belongs to those who design intelligent systems today.”*
+## 📚 Education
+
+**NED University of Engineering and Technology**  
+*Bachelor of Electrical Engineering* | Oct 2022 – Sep 2026  
+CGPA: 3.34/4.00
 
 ---
 
-### ⚡ Fun Fact
-I love exploring the **intersection of AI and autonomous systems** — from **digital twins** to **self-driving robots** 🚗🤖
+## 🎤 Conferences & Publications
+
+- 📄 Presented at **10th International Electrical Engineering Conference**: *"Innovative Integration of Solar PV and Battery Storage Systems for Energy Efficiency"*
+- 🔬 Participated in **8th International Workshop on Tracking Detectors in High Energy Physics** at NCP
+
+---
+
+## 🌱 Community Involvement
+
+- ✍️ **Contributing Writer** on Medium – Technical articles on ML, robotics, and software engineering
+- ⚡ **Active Member** – IEEE & Formula Electric Society, NED UET
+- 🌳 **Environmental Leadership** – Led campus-wide plantation drive
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on research projects, open-source contributions, or discussing AI, robotics, and physics!
+
+- 💼 [LinkedIn](https://linkedin.com/in/ahmedbilal9)
+- 📧 [Email](mailto:ahmedbilalned@gmail.com)
+- 📝 [Medium](https://medium.com/@ahmedbilal9)
+
+---
+
+*"Exploring the intersection of artificial intelligence, autonomous systems, and high-energy physics to build trustworthy and intelligent solutions."*
