@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmedbilal9)
 [![Email](https://img.shields.io/badge/Email-ahmedbilalned@gmail.com-red?style=flat&logo=gmail)](mailto:ahmedbilalned@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@ahmedbilal9)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@ab459047)
 
 ---
 
@@ -12,11 +12,27 @@
 
 I'm an Electrical Engineering student at **NED University** with a passion for **Machine Learning**, **Robotics**, and **High-Energy Physics**. I've contributed to **CERN ROOT** with three merged PRs and gained hands-on research experience at **National Centre for Physics (NCP)**, **NUST**, and **NED University**.
 
-Currently exploring graduate research opportunities in **AI**, **Intelligent Systems**, and **Robotics**.
+🎉 **Selected for MITACS GRI 2026** – I'll be working on **Navigation and Mapping of Mobile Robots** at **Saint Mary's University**, Canada!
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedbilal9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbilal9&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedbilal9&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔬 Research Experience
+
+### **MITACS GRI Research Intern @ Saint Mary's University** *(2026)*
+🎉 **Selected for MITACS Global Research Internship 2026**
+- Working on **Navigation and Mapping of Mobile Robots**
+- Developing advanced autonomous navigation algorithms
+- Implementing state-of-the-art SLAM techniques for mobile robotics
 
 ### **Research Intern @ National Centre for Physics (NCP)** *(Dec 2025 – Present)*
 - Designed multi-algorithm anomaly detection pipeline on **100K CERN dielectron collision events**
@@ -111,8 +127,10 @@ I'm always open to collaborating on research projects, open-source contributions
 
 - 💼 [LinkedIn](https://linkedin.com/in/ahmedbilal9)
 - 📧 [Email](mailto:ahmedbilalned@gmail.com)
-- 📝 [Medium](https://medium.com/@ahmedbilal9)
+- 📝 [Medium](https://medium.com/@ab459047)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedbilal9&color=blueviolet&style=flat-square)
 
 *"Exploring the intersection of artificial intelligence, autonomous systems, and high-energy physics to build trustworthy and intelligent solutions."*
